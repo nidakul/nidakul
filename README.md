@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nida Kul</h1>
+<h1 align="center">Hi 👩🏻‍💻</h1>
 <h3 align="center">A passionate junior developer from Türkiye</h3>
 
 📫 How to reach me **nidakul@hotmail.com**
