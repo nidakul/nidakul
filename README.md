@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👩🏻‍💻</h1>
-<h3 align="center">A passionate junior developer from Türkiye</h3>
 
 📫 How to reach me **nidakul@hotmail.com**
 
@@ -7,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidakul&label=Profile%20views&color=0e75b6&style=flat" alt="nidakul" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nidakul&show_icons=true&locale=en&layout=compact" alt="nidakul" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nidakul&show_icons=true&locale=en&layout=compact color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="nidakul" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidakul&show_icons=true&locale=en" alt="nidakul" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidakul&show_icons=true&locale=en color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="nidakul" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nidakul&" alt="nidakul" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nidakul& color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="nidakul" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
