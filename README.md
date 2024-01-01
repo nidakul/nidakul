@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👩🏻‍💻</h1>
+<h1 align="center">Hi there 👩🏻‍💻</h1>
 
 📫 How to reach me **nidakul@hotmail.com**
 
