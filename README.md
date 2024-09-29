@@ -59,12 +59,9 @@
     
   </tr>
 </table>
-<div align="center">
   <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nidakul&theme=transparent&"alt="nidakul" />
 <img src="https://github-readme-stats.vercel.app/api?username=nidakul&show_icons=true&theme=transparent&locale=en" alt="nidakul" />
-</div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nidakul&show_icons=true&theme=transparent&locale=en&layout=compact" alt="nidakul" />
 </div>
 
 </br>
