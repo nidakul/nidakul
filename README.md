@@ -60,14 +60,16 @@
   </tr>
 </table>
 
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nida-kul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nida-kul" height="30" width="40" /></a>
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nidakul&show_icons=true&theme=transparent&locale=en&layout=compact" alt="nidakul" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidakul&show_icons=true&theme=transparent&locale=en" alt="nidakul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nidakul&theme=transparent&" alt="nidakul" /></p>
+</br>
+<h3 align="left">Discover more projects I've worked on: </br></b> https://sevdakul.com </h3>
+
+<h3 align="left">Connect with me</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nida-kul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nida-kul" height="30" width="40" /></a>
+</p>
 
