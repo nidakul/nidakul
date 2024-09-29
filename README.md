@@ -59,7 +59,7 @@
     
   </tr>
 </table>
-  <div text-align:center;">
+  <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nidakul&theme=transparent&"alt="nidakul" />
 <img src="https://github-readme-stats.vercel.app/api?username=nidakul&show_icons=true&theme=transparent&locale=en" alt="nidakul" />
 </div>
