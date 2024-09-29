@@ -59,12 +59,14 @@
     
   </tr>
 </table>
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nidakul&theme=transparent&"alt="nidakul" />
+<img src="https://github-readme-stats.vercel.app/api?username=nidakul&show_icons=true&theme=transparent&locale=en" alt="nidakul" />
+</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nidakul&show_icons=true&theme=transparent&locale=en&layout=compact" alt="nidakul" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nidakul&show_icons=true&theme=transparent&locale=en&layout=compact" alt="nidakul" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidakul&show_icons=true&theme=transparent&locale=en" alt="nidakul" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nidakul&theme=transparent&" alt="nidakul" /></p>
 </br>
 <h3 align="left">Discover more projects I've worked on: </br></b> https://sevdakul.com </h3>
 
