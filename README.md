@@ -19,7 +19,10 @@
       <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="45" height="45" />
       <br>Redux
   </td>
-  
+   <td align="center" width="90">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="45" height="45" />
+      <br>MSSQL
+  </td>
 </tr>
   <tr>
      <td align="center" width="90">
@@ -38,13 +41,13 @@
       <img src="https://skillicons.dev/icons?i=git" alt="git" width="45" height="45" />
       <br>Git
   </td>
-  </tr>
-  <tr>
      <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=ts" alt="ts" width="45" height="45" />
       <br>TypeScript
   </td>
-       <td align="center" width="90">
+  </tr>
+  <tr>
+     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=js" alt="js" width="45" height="45" />
       <br>JavaScript
   </td>
