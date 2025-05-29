@@ -70,6 +70,8 @@
 </br>
 <h3 align="left">Discover more projects I've worked on:</br> 
     <a href="https://sevdakul.com" target="_blank">sevdakul.com</a>
+  </br>
+    <a href="https://www.degisimailedanismanligi.com/" target="_blank">degisimailedanismanligi.com</a>
 </h3>
 
 <h3 align="left">Connect with me</h3>
